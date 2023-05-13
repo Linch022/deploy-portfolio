@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e84c289.css",
+    "main.js": "/static/js/main.f0a20a6d.js",
+    "static/media/playlogo.png": "/static/media/playlogo.b697d2a034337312ab66.png",
+    "static/media/expressjs.svg": "/static/media/expressjs.94acb892a11fb1891b94642086b2c006.svg",
+    "static/media/MySQL.svg": "/static/media/MySQL.6876431205f21e456e9ed07f85046750.svg",
+    "static/media/react-logo.svg": "/static/media/react-logo.15333eb27a7496dae609f56978db27ce.svg",
+    "static/media/nodejs-logo.svg": "/static/media/nodejs-logo.5d61722caed5f486b2e8b2a0e74bd76b.svg",
+    "static/media/js-logo.svg": "/static/media/js-logo.84d21bdf01b796196521da77cd56bc42.svg",
+    "static/media/html-logo.svg": "/static/media/html-logo.8130d58b1a6c9fb384763cc3f214482a.svg",
+    "static/media/css-logo.svg": "/static/media/css-logo.191aed1f47e0f42d39c332366020f25f.svg",
+    "static/media/sass.svg": "/static/media/sass.63c3779b5b84188dc0dcb196040f6499.svg",
+    "index.html": "/index.html",
+    "static/media/icon-burger.svg": "/static/media/icon-burger.5538910fa87a09cf27ea78973434b2cb.svg",
+    "static/media/icon-close.svg": "/static/media/icon-close.64698bc49d8bac9f976114a13af70b60.svg",
+    "main.2e84c289.css.map": "/static/css/main.2e84c289.css.map",
+    "main.f0a20a6d.js.map": "/static/js/main.f0a20a6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e84c289.css",
+    "static/js/main.f0a20a6d.js"
+  ]
+}
